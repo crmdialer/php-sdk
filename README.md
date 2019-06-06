@@ -30,31 +30,11 @@ PHP 5.5 and later
 ## Installation & Usage
 ### Composer
 
-To install the bindings via [Composer](http://getcomposer.org/), add the following to `composer.json`:
+To install the bindings via [Composer](http://getcomposer.org/), please run:
 
 ```
-{
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/crmdialer/php-sdk.git"
-    }
-  ],
-  "require": {
-    "crmdialer/php-sdk": "*@dev"
-  }
-}
-```
-
-Then run `composer install`
-
-### Manual Installation
-
-Download the files and include `autoload.php`:
-
-```php
-    require_once('/path/to/SwaggerClient-php/vendor/autoload.php');
-```
+composer require crmdialer/php-sdk
+``` 
 
 ## Tests
 
