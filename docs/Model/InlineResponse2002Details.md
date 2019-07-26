@@ -9,5 +9,5 @@ Name | Type | Description | Notes
 **record** | **int** | Record Id | [optional] 
 **fields** | [**\Swagger\Client\Model\InlineResponse2002Fields[]**](InlineResponse2002Fields.md) |  | [optional] 
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
 
