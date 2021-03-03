@@ -4,7 +4,6 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **id** | **int** | Lead Id | [optional] 
-**mid** | **int** | Lead merchant Id | [optional] 
 **name** | **string** | Lead name | [optional] 
 **group** | [**\Swagger\Client\Model\BriefGroupInfo**](BriefGroupInfo.md) |  | [optional] 
 **category** | [**\Swagger\Client\Model\BriefCategoryInfo**](BriefCategoryInfo.md) |  | [optional] 

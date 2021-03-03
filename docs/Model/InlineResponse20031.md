@@ -3,7 +3,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**data** | [**\Swagger\Client\Model\ApplicationField[]**](ApplicationField.md) |  | [optional] 
+**data** | [**\Swagger\Client\Model\SourceActivity[]**](SourceActivity.md) |  | [optional] 
 **links** | [**\Swagger\Client\Model\Links**](Links.md) |  | [optional] 
 **meta** | [**\Swagger\Client\Model\Meta**](Meta.md) |  | [optional] 
 

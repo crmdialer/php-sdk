@@ -3,7 +3,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**data** | [**\Swagger\Client\Model\InlineResponse20019Data[]**](InlineResponse20019Data.md) |  | [optional] 
+**data** | [**\Swagger\Client\Model\FileLabel[]**](FileLabel.md) |  | [optional] 
 **links** | [**\Swagger\Client\Model\Links**](Links.md) |  | [optional] 
 **meta** | [**\Swagger\Client\Model\Meta**](Meta.md) |  | [optional] 
 
